@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #f0e2c5;
+}
+.bg-primary {
+  background-color: #f0e2c5;
+}
+.bg-secondary {
+  background-color: #49281a;
+}
+.text-primary {
+  color: #f0e2c5;
+}
+.text-secondary {
+  color: #49281a;
+}
+.header-font {
+  font-family: "playfair display sc", serif;
+}
+.body-font {
+  font-family: "lato", serif;
+}
+
+.our-menu .card {
+  border: 1px solid black;
+  width: 250px;
+  padding: 10px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: blanchedalmond;
+  font-family: ;
+  border-radius: 5px;
+}
+.d-inline-block {
+  display: inline-block;
+}
+.our-menu .card-img-top {
+  max-width: 100%;
+  border-radius: 5px;
+}
+.card-title {
+  margin: 10px;
+}
+
+.card-text {
+  line-height: 1.5;
+}
+.price {
+  font-style: italic;
+  font-weight: bold;
+}
+.btn {
+  background-color: black;
+  display: block;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
